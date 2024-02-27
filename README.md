@@ -7,3 +7,5 @@
 <img src="https://i.imgur.com/4GZjYk8.png"/>
 <h4>Mobile View</h4>
 <img src="https://i.imgur.com/3uMVZVk.png"/>
+<h4>Tab View</h4>
+<img src="https://i.imgur.com/rIEU6Mf.png"/>
